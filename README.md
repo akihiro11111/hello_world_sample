@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+  *オンラインサロン共同開発課題*
 
-* Ruby version
+1. Hello Worldを表示したアプリをGithubに上げる。
 
-* System dependencies
+2. Hello　Worldアプリをローカルにクローンして動作確認
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3. Hello Worldアプリでブランチ作成・任意の変更を加える。コミット・プッシュ・プルリク
